@@ -1,0 +1,7 @@
+{
+    "banned_words": [],
+    "welcome_message": "Welcome {user} to {server}!",
+    "auto_roles": [],
+    "reaction_roles": {},
+    "log_channel": null
+}
